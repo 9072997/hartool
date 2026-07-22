@@ -9,9 +9,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"hartool/har"
-	"hartool/internal"
-	"hartool/pretty"
+	"github.com/9072997/hartool/har"
+	"github.com/9072997/hartool/internal"
+	"github.com/9072997/hartool/pretty"
 )
 
 var replayCmd = &cobra.Command{

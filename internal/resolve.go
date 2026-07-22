@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"hartool/har"
+	"github.com/9072997/hartool/har"
 )
 
 func ResolveEntry(entries []har.Entry, identifier string) (*har.Entry, error) {

@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"hartool/internal"
-	"hartool/pretty"
+	"github.com/9072997/hartool/internal"
+	"github.com/9072997/hartool/pretty"
 )
 
 var respBodyCmd = &cobra.Command{

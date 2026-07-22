@@ -8,8 +8,8 @@ import (
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 
-	"hartool/har"
-	"hartool/internal"
+	"github.com/9072997/hartool/har"
+	"github.com/9072997/hartool/internal"
 )
 
 func registerSearchTool(server *mcp.Server) {

@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"hartool/har"
+	"github.com/9072997/hartool/har"
 )
 
 // BuildMatcher returns a function that matches strings against the given term.

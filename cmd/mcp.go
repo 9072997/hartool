@@ -3,7 +3,7 @@ package cmd
 import (
 	"github.com/spf13/cobra"
 
-	mcpserver "hartool/mcp"
+	mcpserver "github.com/9072997/hartool/mcp"
 )
 
 var mcpCmd = &cobra.Command{

@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"hartool/har"
+	"github.com/9072997/hartool/har"
 )
 
 // PrintRequestHeaders prints request line + headers with cookie section.

@@ -5,7 +5,7 @@ import (
 	"slices"
 	"strings"
 
-	"hartool/cmd"
+	"github.com/9072997/hartool/cmd"
 )
 
 var knownCmds = []string{

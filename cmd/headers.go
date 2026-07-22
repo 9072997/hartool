@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"hartool/internal"
+	"github.com/9072997/hartool/internal"
 )
 
 var headersCmd = &cobra.Command{

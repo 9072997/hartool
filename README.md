@@ -5,7 +5,7 @@ A command-line tool for inspecting HAR (HTTP Archive) files. List, search, and e
 ## Install
 
 ```
-go install hartool@latest
+go install github.com/9072997/hartool@latest
 ```
 
 ## Usage

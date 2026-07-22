@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"hartool/har"
+	"github.com/9072997/hartool/har"
 )
 
 var rootCmd = &cobra.Command{
